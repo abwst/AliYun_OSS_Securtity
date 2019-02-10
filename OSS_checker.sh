@@ -1,8 +1,8 @@
 #!/bin/bash
 
 #
-# First tool for testing Security of OSS bucket using aliyun console
-# Tool is designed for testing pruporse only!
+# First tool for testing Security of OSS buckets using aliyun console
+# Tool is designed for testing purpose only!
 # Created by wojciech@syrkiewicz.com
 #
 
