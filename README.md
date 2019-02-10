@@ -1,5 +1,5 @@
 # AliYun_OSS_Security
-Do heard about AWS S3 bucket leaks?
+Do you heard about AWS S3 bucket leaks?
 
 The same could affect your AliYun OSS bucket!
 
